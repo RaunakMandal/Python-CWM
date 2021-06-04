@@ -9,7 +9,7 @@ class Person:
         print("Person Greet")
 
 
-class Manager(Employee, Person):  # thisp order can ruin things
+class Manager(Employee, Person):  # this order can ruin things
     pass
 
 
